@@ -57,5 +57,4 @@ const Footer = () => (
     </div>
   </motion.footer>
 );
-
 export default Footer;
